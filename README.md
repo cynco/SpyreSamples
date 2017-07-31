@@ -15,6 +15,8 @@ For a quick introduction to how to build your Spyre app, see the developer's [re
 
 ## spyreSample2.1.py  
 
+![spyre2.1.tiff](\imgs\spyre2.1.tiff)
+
 
 ## spyreSample3.py  
 
